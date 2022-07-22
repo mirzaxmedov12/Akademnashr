@@ -115,7 +115,7 @@ body {
 .img-class-img {
   border-radius: 8px;
   width: 510px;
-
+  box-shadow: 24px 24px 0 0 rgba(255, 117, 0, 0.6);
 }
 
 
@@ -199,6 +199,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-radius: 12px;
+}
+.clas-image {
+  border-radius: 12px;
 }
 
 .promo-contend {
